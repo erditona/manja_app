@@ -20,14 +20,14 @@ class _InfoPageState extends State<InfoPage> {
             children: [
               CardWidget(
                 imageUrl:
-                    'https://raw.githubusercontent.com/MancinginAja/manja_app/main/Dito.jpg',
+                    'https://raw.githubusercontent.com/MancinginAja/manja_app/main/assets/Dito.jpg',
                 name: 'Erdito Nausha Adam',
                 npm: '1214031',
               ),
               SizedBox(height: 16.0),
               CardWidget(
                 imageUrl:
-                    'https://raw.githubusercontent.com/MancinginAja/manja_app/main/Zidan.jpg',
+                    'https://raw.githubusercontent.com/MancinginAja/manja_app/main/assets/Zidan.jpg',
                 name: 'M. Zidan Putra Yuliadie',
                 npm: '1214043',
               ),
